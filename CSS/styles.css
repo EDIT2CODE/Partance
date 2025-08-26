@@ -110,3 +110,36 @@ main h2{
     outline-color: rgb(108, 152, 189);
     outline-offset: 2px;
 }
+
+.upperP{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 40px;
+    background-color: azure;
+    border-radius: 25px;
+    width: auto;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+
+main ol, article ul{
+    margin-left: 30px;
+}
+
+main ol li, article ul li{
+    margin-top: 5px;
+}
+
+div h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 16px;
+}
+
