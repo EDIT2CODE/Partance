@@ -1,0 +1,4 @@
+l'utilisateur rentre son revenu, il appuie sur un bouton qui va sauvegarder le nombre dans une variable,
+le backend devra récuperer la valeur de la variable et l'inserer dans la BDD, ensuite
+il faudra un IF du backend pour verifier si ca a bien été mis dans la BDD
+et ca renvera un signe "check" à la place du bouton sauvegarder
